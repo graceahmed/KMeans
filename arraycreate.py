@@ -6,7 +6,7 @@ line_school = open("myfile.csv", "rb")
 for line in line_school:
     array = [i.strip() for i in line.split(',')]
     print array
-    A.append(x)
+    A.append(array)
 B = np.array(A)
 X = B.astype(np.float) 
 
