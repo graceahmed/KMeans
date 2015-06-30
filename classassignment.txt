@@ -1,0 +1,16 @@
+'''
+Now that you know what the kmeans clustering algorithm
+ is and how it could be used. Grab some 
+data from http://bagrow.com/dsv/datasets.html (Thanks Grace!) .
+ Any dataset will do. Be sure to select only 2 variables. Maybe you 
+should export to an Excel workbook to better visualize the data. 
+Select 50 observations and run the kmeans. Play around with cluster 
+size. You'll present your results to the class.
+
+Here's a tutorial: http://pythonprogramming.net/flat-clustering-machine-learning-python-scikit-learn/
+
+Tomorrow we'll visualize all the data.
+
+Note: Try this in Aptana, but if you're having issues switch to Anaconda (ipython)
+You should be able to run the same code.
+'''
